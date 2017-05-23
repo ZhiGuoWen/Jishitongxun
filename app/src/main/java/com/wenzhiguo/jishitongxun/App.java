@@ -8,7 +8,7 @@ import io.rong.imlib.RongIMClient;
 
 /**
  * Created by dell on 2017/5/2.
- * action :
+ * action :初始化融云服务
  */
 
 public class App extends Application {
