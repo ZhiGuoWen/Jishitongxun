@@ -17,7 +17,7 @@ public class App extends Application {
     public void onCreate() {
         //初始化融云
         RongIM.init(this);
-        String Token = "gdHRk0Zp2TntszhAKOy32Vq98lPtxfqb2fo8A7bwU5b3AyG4/qZ8atyX5QA7WP2Xo2u/Ht0Gm0qT/JfJ6QzEag==";
+        String Token = "uZgHdwvjUsXokprk1DNu11q98lPtxfqb2fo8A7bwU5Z1EsGp+VWM6hPhnNoMptgWRVUPJBx55YeT/JfJ6QzEag==";
         //建立与服务器连接
         RongIM.connect(Token, new RongIMClient.ConnectCallback() {
             @Override

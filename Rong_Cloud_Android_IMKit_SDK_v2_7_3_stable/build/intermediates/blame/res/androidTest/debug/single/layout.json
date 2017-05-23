@@ -180,12 +180,12 @@
         "source": "C:\\Users\\dell\\Desktop\\Jishitongxun\\Rong_Cloud_Android_IMKit_SDK_v2_7_3_stable\\build\\intermediates\\bundles\\debug\\res\\layout\\rc_item_public_service_multi_rich_content_message.xml"
     },
     {
-        "merged": "C:\\Users\\dell\\Desktop\\Jishitongxun\\Rong_Cloud_Android_IMKit_SDK_v2_7_3_stable\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\rc_mention_list_item.xml",
-        "source": "C:\\Users\\dell\\Desktop\\Jishitongxun\\Rong_Cloud_Android_IMKit_SDK_v2_7_3_stable\\build\\intermediates\\bundles\\debug\\res\\layout\\rc_mention_list_item.xml"
-    },
-    {
         "merged": "C:\\Users\\dell\\Desktop\\Jishitongxun\\Rong_Cloud_Android_IMKit_SDK_v2_7_3_stable\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\rc_item_text_message.xml",
         "source": "C:\\Users\\dell\\Desktop\\Jishitongxun\\Rong_Cloud_Android_IMKit_SDK_v2_7_3_stable\\build\\intermediates\\bundles\\debug\\res\\layout\\rc_item_text_message.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\Desktop\\Jishitongxun\\Rong_Cloud_Android_IMKit_SDK_v2_7_3_stable\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\rc_mention_list_item.xml",
+        "source": "C:\\Users\\dell\\Desktop\\Jishitongxun\\Rong_Cloud_Android_IMKit_SDK_v2_7_3_stable\\build\\intermediates\\bundles\\debug\\res\\layout\\rc_mention_list_item.xml"
     },
     {
         "merged": "C:\\Users\\dell\\Desktop\\Jishitongxun\\Rong_Cloud_Android_IMKit_SDK_v2_7_3_stable\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\rc_wi_vo_popup.xml",
